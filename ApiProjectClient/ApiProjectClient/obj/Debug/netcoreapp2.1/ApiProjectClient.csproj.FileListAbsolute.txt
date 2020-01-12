@@ -1,0 +1,11 @@
+C:\Users\sam\source\repos\ApiProjectClient\ApiProjectClient\bin\Debug\netcoreapp2.1\ApiProjectClient.deps.json
+C:\Users\sam\source\repos\ApiProjectClient\ApiProjectClient\bin\Debug\netcoreapp2.1\ApiProjectClient.runtimeconfig.json
+C:\Users\sam\source\repos\ApiProjectClient\ApiProjectClient\bin\Debug\netcoreapp2.1\ApiProjectClient.runtimeconfig.dev.json
+C:\Users\sam\source\repos\ApiProjectClient\ApiProjectClient\bin\Debug\netcoreapp2.1\ApiProjectClient.dll
+C:\Users\sam\source\repos\ApiProjectClient\ApiProjectClient\obj\Debug\netcoreapp2.1\ApiProjectClient.csprojAssemblyReference.cache
+C:\Users\sam\source\repos\ApiProjectClient\ApiProjectClient\obj\Debug\netcoreapp2.1\ApiProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\sam\source\repos\ApiProjectClient\ApiProjectClient\obj\Debug\netcoreapp2.1\ApiProjectClient.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\ApiProjectClient\ApiProjectClient\obj\Debug\netcoreapp2.1\ApiProjectClient.AssemblyInfo.cs
+C:\Users\sam\source\repos\ApiProjectClient\ApiProjectClient\bin\Debug\netcoreapp2.1\ApiProjectClient.pdb
+C:\Users\sam\source\repos\ApiProjectClient\ApiProjectClient\obj\Debug\netcoreapp2.1\ApiProjectClient.dll
+C:\Users\sam\source\repos\ApiProjectClient\ApiProjectClient\obj\Debug\netcoreapp2.1\ApiProjectClient.pdb
